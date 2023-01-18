@@ -1,0 +1,45 @@
+html,
+body {
+  margin: 0;
+  height: 100%;
+  font-size: 15px;
+}
+body {
+  background-color: #2c3639;
+}
+.swiper {
+  width: 1000px;
+  height: 80%;
+}
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background-color: #3f4e4f;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.swiper-slide img {
+  width: 85%;
+  object-fit: cover;
+}
+.swiper-button-next,
+.swiper-rtl .swiper-button-prev {
+  right: 140px !important;
+  left: auto;
+}
+.swiper-button-prev,
+.swiper-rtl .swiper-button-next {
+  left: 140px !important;
+  right: auto;
+}
+h1 {
+  font-family: "Dosis", sans-serif;
+  font-size: 48px;
+  color: aliceblue;
+  text-shadow: 3px 4px 7px rgba(30, 167, 201, 0.63);
+  text-align: center;
+}
+div h1 {
+  margin-top: 0;
+}
