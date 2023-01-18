@@ -1,4 +1,4 @@
 # ImageSlider
 Image slider created with SwiperJS
-Images were take from Unsplash
+Images were taken from Unsplash
 Thank you so much for viewing ♥
